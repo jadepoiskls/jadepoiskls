@@ -9,7 +9,8 @@ Overload DDOS Tool (Layer 7). [^4] <br>
 Static site generator in Ruby. [^5] <br>
 The OWASP Foundation. [^6] <br>
 Create a website using AI. [^7] <br>
-Make your web app installable. [^8]
+Make your web app installable. [^8] <br>
+ChatGPT Desktop Application Supercharged with prompts. [^9]
 
 [^1]: [firestick-loader](https://github.com/jadepoiskls/firestick-loader)
 [^2]: [magisk](https://github.com/jadepoiskls/Magisk)
@@ -19,3 +20,5 @@ Make your web app installable. [^8]
 [^6]: [owasp)](https://github.com/owasp)
 [^7]: [10web.io)](https://10web.io/)
 [^8]: [glith)](https://glitch.com/)
+[^9]: [ChatGPT-Desktop)](https://github.com/StanGirard/ChatGPT-Desktop)
+
