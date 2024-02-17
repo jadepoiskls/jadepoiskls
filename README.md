@@ -10,7 +10,8 @@ Static site generator in Ruby. [^5] <br>
 The OWASP Foundation. [^6] <br>
 Create a website using AI. [^7] <br>
 Make your web app installable. [^8] <br>
-ChatGPT Desktop Application Supercharged with prompts. [^9]
+ChatGPT Desktop Application Supercharged with prompts. [^9] <br>
+Master programming by recreating your favorite technologies from scratch. [^10]
 
 [^1]: [firestick-loader](https://github.com/jadepoiskls/firestick-loader)
 [^2]: [magisk](https://github.com/jadepoiskls/Magisk)
@@ -21,4 +22,5 @@ ChatGPT Desktop Application Supercharged with prompts. [^9]
 [^7]: [10web.io)](https://10web.io/)
 [^8]: [glith)](https://glitch.com/)
 [^9]: [ChatGPT-Desktop)](https://github.com/StanGirard/ChatGPT-Desktop)
+[^10]: [build-your-own-x)](https://github.com/codecrafters-io/build-your-own-x)
 
