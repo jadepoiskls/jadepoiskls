@@ -6,8 +6,10 @@ Scripting To Root, Downgrade, Load Apps & More. [^1] <br>
 The Magic Mask for Android. [^2] <br>
 Get bootless root access with few clicks. [^3] <br>
 Overload DDOS Tool (Layer 7). [^4] <br>
-Jekyll is a blog-aware, static site generator in Ruby. [^5]
-The OWASP Foundation. [^6]
+Static site generator in Ruby. [^5] <br>
+The OWASP Foundation. [^6] <br>
+Create a website using AI. [^7] <br>
+Make your web app installable. [^8]
 
 [^1]: [firestick-loader](https://github.com/jadepoiskls/firestick-loader)
 [^2]: [magisk](https://github.com/jadepoiskls/Magisk)
@@ -15,6 +17,5 @@ The OWASP Foundation. [^6]
 [^4]: [overload)](https://github.com/jadepoiskls/overload)
 [^5]: [jekyll)](https://github.com/jekyll)
 [^6]: [owasp)](https://github.com/owasp)
-
-
-
+[^7]: [10web.io)](https://10web.io/)
+[^8]: [glith)](https://glitch.com/)
