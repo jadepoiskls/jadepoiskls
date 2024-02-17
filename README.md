@@ -13,6 +13,7 @@ Make your web app installable. [^8] <br>
 ChatGPT Desktop Application Supercharged with prompts. [^9] <br>
 Master programming by recreating your favorite technologies from scratch. [^10] <br>
 Community Mod editor/creator for REDengine games. [^11] <br>
+ALL IN ONE Hacking Tool For Hackers. [^12] <br>
 
 [^1]: [firestick-loader](https://github.com/jadepoiskls/firestick-loader)
 [^2]: [magisk](https://github.com/jadepoiskls/Magisk)
@@ -25,5 +26,5 @@ Community Mod editor/creator for REDengine games. [^11] <br>
 [^9]: [ChatGPT-Desktop)](https://github.com/StanGirard/ChatGPT-Desktop)
 [^10]: [build-your-own-x)](https://github.com/codecrafters-io/build-your-own-x)
 [^11]: [WolvenKit)](https://github.com/WolvenKit/WolvenKit/)
-
+[^12]: [hackingtool)](https://github.com/Z4nzu/hackingtool/)
 
