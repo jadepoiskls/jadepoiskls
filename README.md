@@ -16,7 +16,7 @@ Community Mod editor/creator for REDengine games. [^11] <br>
 ALL IN ONE Hacking Tool For Hackers. [^12] <br>
 
 [^1]: [firestick-loader](https://github.com/jadepoiskls/firestick-loader)
-[^2]: [magisk](https://github.com/jadepoiskls/Magisk)
+[^2]: [magisk](https://github.com/topjohnwu/Magisk)
 [^3]: [mtk-easy-su)](https://github.com/jadepoiskls/mtk-easy-su)
 [^4]: [overload)](https://github.com/jadepoiskls/overload)
 [^5]: [jekyll)](https://github.com/jekyll)
