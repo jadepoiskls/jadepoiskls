@@ -21,6 +21,8 @@
 - The Coffee Shop System was created in a simple console application. [^17] <br>
 - The Serenity Operating System. [^18] <br>
 - A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems. [^19] <br>
+- A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.. [^20] <br>
+- Master the command line, in one page. [^21] <br>
 
 [^1]: [firestick-loader](https://github.com/jadepoiskls/firestick-loader)
 [^2]: [magisk](https://github.com/topjohnwu/Magisk)
@@ -41,9 +43,11 @@
 [^17]: [Coffee-Shop-System-using-C++)](https://github.com/0x3EF8/Coffee-Shop-System-using-CPlusPlus)
 [^18]: [serenity)](https://github.com/SerenityOS/serenity/)
 [^19]: [glances)](https://github.com/nicolargo/glances/)
-
+[^20]: [xxx)](https://github.com/trimstray/the-book-of-secret-knowledge)
+[^21]: [xxx)](https://github.com/jlevy/the-art-of-command-line)
 
 <!-- 
+[^20]: [xxx)](xxxx)
 https://github.com/search?q=hacking&type=repositories
 https://github.com/search?q=hacking&type=repositories 
 -->
