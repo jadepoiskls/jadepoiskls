@@ -19,6 +19,7 @@
 - Build a Jekyll blog in minutes, without touching the command line. [^15] <br>
 - top-github-users. [^16] <br>
 - The Coffee Shop System was created in a simple console application. [^17] <br>
+- The Serenity Operating System. [^18] <br>
 
 [^1]: [firestick-loader](https://github.com/jadepoiskls/firestick-loader)
 [^2]: [magisk](https://github.com/topjohnwu/Magisk)
@@ -37,6 +38,7 @@
 [^15]: [I-S00N)](https://github.com/barryclark/jekyll-now)
 [^16]: [top-github-users)](https://github.com/gayanvoice/top-github-users)
 [^17]: [Coffee-Shop-System-using-C++)](https://github.com/0x3EF8/Coffee-Shop-System-using-CPlusPlus)
+[^18]: [I-S00N)](https://github.com/SerenityOS/serenity/)
 
 
 <!-- 
