@@ -29,8 +29,8 @@ Dimped internal docs from the Chinese Government on Github [^14] <br>
 [^10]: [build-your-own-x)](https://github.com/codecrafters-io/build-your-own-x)
 [^11]: [WolvenKit)](https://github.com/WolvenKit/WolvenKit/)
 [^12]: [hackingtool)](https://github.com/Z4nzu/hackingtool/)
-[^13]: [xxx)](https://github.com/h4r5h1t/webcopilot)
-[^14]: [xx)](https://github.com/I-S00N/I-S00N)
+[^13]: [webcopilot)](https://github.com/h4r5h1t/webcopilot)
+[^14]: [I-S00N)](https://github.com/I-S00N/I-S00N)
 
 
 
