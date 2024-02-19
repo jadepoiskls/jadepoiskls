@@ -20,6 +20,7 @@
 - top-github-users. [^16] <br>
 - The Coffee Shop System was created in a simple console application. [^17] <br>
 - The Serenity Operating System. [^18] <br>
+- A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems. [^19] <br>
 
 [^1]: [firestick-loader](https://github.com/jadepoiskls/firestick-loader)
 [^2]: [magisk](https://github.com/topjohnwu/Magisk)
@@ -38,7 +39,8 @@
 [^15]: [I-S00N)](https://github.com/barryclark/jekyll-now)
 [^16]: [top-github-users)](https://github.com/gayanvoice/top-github-users)
 [^17]: [Coffee-Shop-System-using-C++)](https://github.com/0x3EF8/Coffee-Shop-System-using-CPlusPlus)
-[^18]: [I-S00N)](https://github.com/SerenityOS/serenity/)
+[^18]: [serenity)](https://github.com/SerenityOS/serenity/)
+[^19]: [glances)](https://github.com/nicolargo/glances/)
 
 
 <!-- 
