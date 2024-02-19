@@ -2,21 +2,21 @@
 
 ## Credit to this repo
 
-Scripting To Root, Downgrade, Load Apps & More. [^1] <br>
-The Magic Mask for Android. [^2] <br>
-Get bootless root access with few clicks. [^3] <br>
-Overload DDOS Tool (Layer 7). [^4] <br>
-Static site generator in Ruby. [^5] <br>
-The OWASP Foundation. [^6] <br>
-Create a website using AI. [^7] <br>
-Make your web app installable. [^8] <br>
-ChatGPT Desktop Application Supercharged with prompts. [^9] <br>
-Master programming by recreating your favorite technologies from scratch. [^10] <br>
-Community Mod editor/creator for REDengine games. [^11] <br>
-ALL IN ONE Hacking Tool For Hackers. [^12] <br>
-A tool that enumerates subdomains then filters out xss, sqli & more [^13] <br>
-Dimped internal docs from the Chinese Government on Github [^14] <br>
-Build a Jekyll blog in minutes, without touching the command line. [^15] <br>
+- Scripting To Root, Downgrade, Load Apps & More. [^1] <br>
+- The Magic Mask for Android. [^2] <br>
+- Get bootless root access with few clicks. [^3] <br>
+- Overload DDOS Tool (Layer 7). [^4] <br>
+- Static site generator in Ruby. [^5] <br>
+- The OWASP Foundation. [^6] <br>
+- Create a website using AI. [^7] <br>
+- Make your web app installable. [^8] <br>
+- ChatGPT Desktop Application Supercharged with prompts. [^9] <br>
+- Master programming by recreating your favorite technologies from scratch. [^10] <br>
+- Community Mod editor/creator for REDengine games. [^11] <br>
+- ALL IN ONE Hacking Tool For Hackers. [^12] <br>
+- A tool that enumerates subdomains then filters out xss, sqli & more [^13] <br>
+- Dimped internal docs from the Chinese Government on Github [^14] <br>
+- Build a Jekyll blog in minutes, without touching the command line. [^15] <br>
 
 [^1]: [firestick-loader](https://github.com/jadepoiskls/firestick-loader)
 [^2]: [magisk](https://github.com/topjohnwu/Magisk)
