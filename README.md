@@ -23,6 +23,7 @@
 - A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems. [^19] <br>
 - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.. [^20] <br>
 - Master the command line, in one page. [^21] <br>
+- Arch Linux installer - guided, templates etc. [^22] <br>
 
 [^1]: [firestick-loader](https://github.com/jadepoiskls/firestick-loader)
 [^2]: [magisk](https://github.com/topjohnwu/Magisk)
@@ -45,6 +46,8 @@
 [^19]: [glances)](https://github.com/nicolargo/glances/)
 [^20]: [the-book-of-secret-knowledge)](https://github.com/trimstray/the-book-of-secret-knowledge)
 [^21]: [the-art-of-command-line)](https://github.com/jlevy/the-art-of-command-line)
+[^22]: [archinstall)](https://github.com/archlinux/archinstall)
+
 
 <!-- 
 [^20]: [xxx)](xxxx)
