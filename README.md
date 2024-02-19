@@ -43,8 +43,8 @@
 [^17]: [Coffee-Shop-System-using-C++)](https://github.com/0x3EF8/Coffee-Shop-System-using-CPlusPlus)
 [^18]: [serenity)](https://github.com/SerenityOS/serenity/)
 [^19]: [glances)](https://github.com/nicolargo/glances/)
-[^20]: [xxx)](https://github.com/trimstray/the-book-of-secret-knowledge)
-[^21]: [xxx)](https://github.com/jlevy/the-art-of-command-line)
+[^20]: [the-book-of-secret-knowledge)](https://github.com/trimstray/the-book-of-secret-knowledge)
+[^21]: [the-art-of-command-line)](https://github.com/jlevy/the-art-of-command-line)
 
 <!-- 
 [^20]: [xxx)](xxxx)
