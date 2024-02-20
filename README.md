@@ -1,6 +1,5 @@
 
-
-## Credit to this repo
+## Best repo i think
 
 - Scripting To Root, Downgrade, Load Apps & More. [^1] <br>
 - The Magic Mask for Android. [^2] <br>
@@ -48,7 +47,7 @@
 [^21]: [the-art-of-command-line)](https://github.com/jlevy/the-art-of-command-line)
 [^22]: [archinstall)](https://github.com/archlinux/archinstall)
 
-
+:ctto:
 <!-- 
 [^20]: [xxx)](xxxx)
 https://github.com/search?q=hacking&type=repositories
