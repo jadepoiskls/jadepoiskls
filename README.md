@@ -1,28 +1,29 @@
+:haircut:
 
 ## Best repo i think
 
-- Scripting To Root, Downgrade, Load Apps & More. [^1] <br>
-- The Magic Mask for Android. [^2] <br>
-- Get bootless root access with few clicks. [^3] <br>
-- Overload DDOS Tool (Layer 7). [^4] <br>
-- Static site generator in Ruby. [^5] <br>
-- The OWASP Foundation. [^6] <br>
-- Create a website using AI. [^7] <br>
-- Make your web app installable. [^8] <br>
-- ChatGPT Desktop Application Supercharged with prompts. [^9] <br>
-- Master programming by recreating your favorite technologies from scratch. [^10] <br>
-- Community Mod editor/creator for REDengine games. [^11] <br>
-- ALL IN ONE Hacking Tool For Hackers. [^12] <br>
-- A tool that enumerates subdomains then filters out xss, sqli & more [^13] <br>
-- Dimped internal docs from the Chinese Government on Github [^14] <br>
-- Build a Jekyll blog in minutes, without touching the command line. [^15] <br>
-- top-github-users. [^16] <br>
-- The Coffee Shop System was created in a simple console application. [^17] <br>
-- The Serenity Operating System. [^18] <br>
-- A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems. [^19] <br>
-- A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.. [^20] <br>
-- Master the command line, in one page. [^21] <br>
-- Arch Linux installer - guided, templates etc. [^22] <br>
+:heavy_dollar_sign: Scripting To Root, Downgrade, Load Apps & More. :heavy_dollar_sign:[^1] <br>
+:heavy_dollar_sign: The Magic Mask for Android. [^2] <br>
+:heavy_dollar_sign: Get bootless root access with few clicks. [^3] <br>
+:heavy_dollar_sign: Overload DDOS Tool (Layer 7). [^4] <br>
+:heavy_dollar_sign: Static site generator in Ruby. [^5] <br>
+:heavy_dollar_sign: The OWASP Foundation. [^6] <br>
+:heavy_dollar_sign: Create a website using AI. [^7] <br>
+:heavy_dollar_sign: Make your web app installable. [^8] <br>
+:heavy_dollar_sign: ChatGPT Desktop Application Supercharged with prompts. [^9] <br>
+:heavy_dollar_sign: Master programming by recreating your favorite technologies from scratch. [^10] <br>
+:heavy_dollar_sign: Community Mod editor/creator for REDengine games. [^11] <br>
+:heavy_dollar_sign: ALL IN ONE Hacking Tool For Hackers. [^12] <br>
+:heavy_dollar_sign: A tool that enumerates subdomains then filters out xss, sqli & more [^13] <br>
+:heavy_dollar_sign: Dimped internal docs from the Chinese Government on Github [^14] <br>
+:heavy_dollar_sign: Build a Jekyll blog in minutes, without touching the command line. [^15] <br>
+:heavy_dollar_sign: top-github-users. [^16] <br>
+:heavy_dollar_sign: The Coffee Shop System was created in a simple console application. [^17] <br>
+:heavy_dollar_sign: The Serenity Operating System. [^18] <br>
+:heavy_dollar_sign: A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems. [^19] <br>
+:heavy_dollar_sign: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.. [^20] <br>
+:heavy_dollar_sign: Master the command line, in one page. [^21] <br>
+:heavy_dollar_sign: Arch Linux installer - guided, templates etc. [^22] <br>
 
 [^1]: [firestick-loader](https://github.com/jadepoiskls/firestick-loader)
 [^2]: [magisk](https://github.com/topjohnwu/Magisk)
@@ -49,7 +50,9 @@
 
 :ctto:
 <!-- 
+https://gist.github.com/robzwolf
 [^20]: [xxx)](xxxx)
+https://gist.github.com/rxaviers/7360908
 https://github.com/search?q=hacking&type=repositories
 https://github.com/search?q=hacking&type=repositories 
 -->
