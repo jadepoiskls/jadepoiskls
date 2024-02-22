@@ -24,6 +24,7 @@
 :heavy_dollar_sign: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.. [^20] <br>
 :heavy_dollar_sign: Master the command line, in one page. [^21] <br>
 :heavy_dollar_sign: Arch Linux installer - guided, templates etc. [^22] <br>
+:heavy_dollar_sign: Mobile App Pentest cheat sheet. [^23] <br>
 
 [^1]: [firestick-loader](https://github.com/jadepoiskls/firestick-loader)
 [^2]: [magisk](https://github.com/topjohnwu/Magisk)
@@ -47,8 +48,10 @@
 [^20]: [the-book-of-secret-knowledge)](https://github.com/trimstray/the-book-of-secret-knowledge)
 [^21]: [the-art-of-command-line)](https://github.com/jlevy/the-art-of-command-line)
 [^22]: [archinstall)](https://github.com/archlinux/archinstall)
-
+[^23]: [MobileApp-Pentest-Cheatsheet)](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 :ctto:
+
+
 <!-- 
 https://gist.github.com/robzwolf
 [^20]: [xxx)](xxxx)
