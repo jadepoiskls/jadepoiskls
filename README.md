@@ -49,6 +49,9 @@
 [^21]: [the-art-of-command-line)](https://github.com/jlevy/the-art-of-command-line)
 [^22]: [archinstall)](https://github.com/archlinux/archinstall)
 [^23]: [MobileApp-Pentest-Cheatsheet)](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
+
+<br>
+
 :ctto:
 
 
