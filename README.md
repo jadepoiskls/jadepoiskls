@@ -1,4 +1,3 @@
-:haircut:
 
 ## Best repo i think
 
@@ -25,6 +24,7 @@
 :heavy_dollar_sign: Master the command line, in one page. [^21] <br>
 :heavy_dollar_sign: Arch Linux installer - guided, templates etc. [^22] <br>
 :heavy_dollar_sign: Mobile App Pentest cheat sheet. [^23] <br>
+:heavy_dollar_sign: The ASCII art of this website has been created by many different artists and credit. [^24] <br
 
 [^1]: [firestick-loader](https://github.com/jadepoiskls/firestick-loader)
 [^2]: [magisk](https://github.com/topjohnwu/Magisk)
@@ -49,7 +49,7 @@
 [^21]: [the-art-of-command-line)](https://github.com/jlevy/the-art-of-command-line)
 [^22]: [archinstall)](https://github.com/archlinux/archinstall)
 [^23]: [MobileApp-Pentest-Cheatsheet)](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
-
+[^24]: [asciiart)](https://www.asciiart.eu/)
 <br>
 
 :ctto:
