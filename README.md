@@ -51,7 +51,7 @@
 [^22]: [archinstall)](https://github.com/archlinux/archinstall)
 [^23]: [MobileApp-Pentest-Cheatsheet)](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 [^24]: [asciiart)](https://www.asciiart.eu/)
-[^25]: [asciiart)](https://github.com/prasathmani/tinyfilemanager/)
+[^25]: [tinyfilemanager)](https://github.com/prasathmani/tinyfilemanager/)
 
 <br>
 
