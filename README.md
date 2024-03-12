@@ -1,4 +1,4 @@
-[My Mobile-App](https://github.com/jadepoiskls/Mobile-App) ---> [p r i v a t e]
+[My Mobile App](https://github.com/jadepoiskls/Mobile-App) ---> [p r i v a t e]
 
 ## Best repo i think
 
