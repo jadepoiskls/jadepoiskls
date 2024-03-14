@@ -30,6 +30,7 @@
 :heavy_dollar_sign: Mobile App Pentest cheat sheet. [^23] <br>
 :heavy_dollar_sign: The ASCII art of this website has been created by many different artists and credit. [^24] <br>
 :heavy_dollar_sign: Single-file PHP file manager, browser and manage your files <br>efficiently and easily with tinyfilemanager Mobile App Pentest cheat sheet. [^25] <br>
+:heavy_dollar_sign: Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname [^23] <br>
 
 [^1]: [firestick-loader](https://github.com/jadepoiskls/firestick-loader)
 [^2]: [magisk](https://github.com/topjohnwu/Magisk)
@@ -56,6 +57,7 @@
 [^23]: [MobileApp-Pentest-Cheatsheet)](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 [^24]: [asciiart)](https://www.asciiart.eu/)
 [^25]: [tinyfilemanager)](https://github.com/prasathmani/tinyfilemanager/)
+[^26]: [awesome-osint)](https://github.com/jivoi/awesome-osint?tab=License-1-ov-file/)
 
 <br>
 
