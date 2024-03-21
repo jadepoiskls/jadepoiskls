@@ -38,6 +38,7 @@
 :heavy_dollar_sign: Advanced SQL Injection Cheatsheet. [^29] <br>
 :heavy_dollar_sign: List of awesome projects and resources that make Linux even more awesome. [^30] <br>
 :heavy_dollar_sign: A curated list of awesome Android packages and resources. [^31] <br>
+:heavy_dollar_sign: Awesome lists about all kinds of interesting topics. [^32] <br>
 
 [^1]: [firestick-loader](https://github.com/jadepoiskls/firestick-loader)
 [^2]: [magisk](https://github.com/topjohnwu/Magisk)
@@ -70,6 +71,7 @@
 [^29]: [Advanced-SQL-Injection-Cheatsheet)](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet)
 [^30]: [awesome-linux)](https://github.com/inputsh/awesome-linux#readme)
 [^31]: [awesome-android)](https://github.com/JStumpp/awesome-android)
+[^32]: [awesome)](https://github.com/sindresorhus/awesome)
 
 <br>
 
@@ -85,7 +87,7 @@ https://github.com/openbullet >The OpenBullet web testing application.
 
 
 https://gist.github.com/robzwolf
-[^20]: [xxx)](xxxx)
+[^20]: [xxx](xxxx)
 https://gist.github.com/rxaviers/7360908
 https://github.com/search?q=hacking&type=repositories
 https://github.com/search?q=hacking&type=repositories 
