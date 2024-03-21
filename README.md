@@ -35,8 +35,7 @@
 :heavy_dollar_sign: Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname [^26] <br>
 :heavy_dollar_sign: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. [^27] <br>
 :heavy_dollar_sign: User-Searcher is a powerful and free tool to help you search username in 2000+ websites. [^28] <br>
-
-
+:heavy_dollar_sign: Advanced SQL Injection Cheatsheet. [^29] <br>
 
 [^1]: [firestick-loader](https://github.com/jadepoiskls/firestick-loader)
 [^2]: [magisk](https://github.com/topjohnwu/Magisk)
@@ -66,6 +65,7 @@
 [^26]: [awesome-osint)](https://github.com/jivoi/awesome-osint?tab=License-1-ov-file/)
 [^27]: [the-book-of-secret-knowledge)](https://github.com/trimstray/the-book-of-secret-knowledge)
 [^28]: [user-searcher)](https://www.user-searcher.com/#google_vignette )
+[^29]: [Advanced-SQL-Injection-Cheatsheet)](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet)
 
 <br>
 
