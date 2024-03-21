@@ -37,6 +37,7 @@
 :heavy_dollar_sign: User-Searcher is a powerful and free tool to help you search username in 2000+ websites. [^28] <br>
 :heavy_dollar_sign: Advanced SQL Injection Cheatsheet. [^29] <br>
 :heavy_dollar_sign: List of awesome projects and resources that make Linux even more awesome. [^30] <br>
+:heavy_dollar_sign: A curated list of awesome Android packages and resources. [^31] <br>
 
 [^1]: [firestick-loader](https://github.com/jadepoiskls/firestick-loader)
 [^2]: [magisk](https://github.com/topjohnwu/Magisk)
@@ -68,6 +69,7 @@
 [^28]: [user-searcher)](https://www.user-searcher.com/#google_vignette )
 [^29]: [Advanced-SQL-Injection-Cheatsheet)](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet)
 [^30]: [awesome-linux)](https://github.com/inputsh/awesome-linux#readme)
+[^31]: [awesome-android)](https://github.com/JStumpp/awesome-android)
 
 <br>
 
