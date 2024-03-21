@@ -7,7 +7,7 @@
 
 ## Best repo i think
 
-:heavy_dollar_sign: Scripting To Root, Downgrade, Load Apps & More. <br>
+:heavy_dollar_sign: Scripting To Root, Downgrade, Load Apps & More. [^1]<br>
 :heavy_dollar_sign: The Magic Mask for Android. [^2] <br>
 :heavy_dollar_sign: Get bootless root access with few clicks. [^3] <br>
 :heavy_dollar_sign: Overload DDOS Tool (Layer 7). [^4] <br>
