@@ -40,6 +40,7 @@
 :heavy_dollar_sign: List of awesome projects and resources that make Linux even more awesome. [^30] <br>
 :heavy_dollar_sign: A curated list of awesome Android packages and resources. [^31] <br>
 :heavy_dollar_sign: Awesome lists about all kinds of interesting topics. [^32] <br>
+:heavy_dollar_sign: Collection of forensic tools [^33] <br>
 
 [^1]: [firestick-loader](https://github.com/jadepoiskls/firestick-loader)
 [^2]: [magisk](https://github.com/topjohnwu/Magisk)
@@ -73,6 +74,7 @@
 [^30]: [awesome-linux)](https://github.com/inputsh/awesome-linux#readme)
 [^31]: [awesome-android)](https://github.com/JStumpp/awesome-android)
 [^32]: [awesome)](https://github.com/sindresorhus/awesome)
+[^33]: [Collection of forensic tools)](https://github.com/cristianzsh/forensictools)
 
 <br>
 
